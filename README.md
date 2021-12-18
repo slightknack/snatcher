@@ -1,5 +1,5 @@
 # snatcher
-Silly programming language based on pattern matching (unfinished).
+Silly programming language where *everything* is just pattern matching:
 
 ```python
 fib
